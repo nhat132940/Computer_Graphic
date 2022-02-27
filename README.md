@@ -3,6 +3,6 @@
 ## Giảng viên hướng dẫn:
 ### ThS. Cáp Phạm Đình Thăng
 ## Thành viên
-* Nguyễn Hoài Nam
-* Lê Huy Đạt
-* Phan Minh Nhật
+* Nguyễn Hoài Nam - 18521126
+* Lê Huy Đạt - 18520569
+* Phan Minh Nhật - 19521956
