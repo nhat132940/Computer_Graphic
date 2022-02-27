@@ -1,0 +1,11 @@
+Model Information:
+* title:	KEDR PP
+* source:	https://sketchfab.com/3d-models/kedr-pp-404a51e5a7574be79295678d63697d10
+* author:	sh4m4n (https://sketchfab.com/sh4m4n)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "KEDR PP" (https://sketchfab.com/3d-models/kedr-pp-404a51e5a7574be79295678d63697d10) by sh4m4n (https://sketchfab.com/sh4m4n) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
